@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+redis
+qdrant-client
+elasticsearch
+neo4j
+spacy
+fastembed
+sqlmodel
+python-dotenv
